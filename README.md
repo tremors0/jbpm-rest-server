@@ -8,3 +8,4 @@ Server běží na portu 8081.
 ## Tvorba jar archivu
 ./mvnw clean package
 
+### Vývoj přesunut na https://github.com/daliborjelinek/jbpm-rest-server
